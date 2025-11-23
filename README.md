@@ -1,4 +1,4 @@
-<img width="1156" height="825" alt="image" src="https://github.com/user-attachments/assets/c2d1dd9b-dd6f-4ba0-a78e-3f180806fccd" /># -Amplitude-Modulation-and-Demodulation-using-NumPy-and-Matplotlib
+Demodulation-using-NumPy-and-Matplotlib
 
 __Aim__: 
 
@@ -47,7 +47,7 @@ plt.plot(t,s)
 
 __Tabulation__:
 
-<img width="554" height="413" alt="image" src="https://github.com/user-attachments/assets/508e8408-c19b-4bf9-ad16-85226eae4bdf" />
+<img width="1156" height="825" alt="image" src="https://github.com/user-attachments/assets/c2d1dd9b-dd6f-4ba0-a78e-3f180806fccd" /># -Amplitude-Modulation-and-
 
 
  __Output__:
