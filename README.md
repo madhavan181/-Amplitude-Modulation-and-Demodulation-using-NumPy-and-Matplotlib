@@ -1,4 +1,4 @@
-Demodulation-using-NumPy-and-Matplotlib
+AM Demodulation-using-NumPy-and-Matplotlib
 
 __Aim__: 
 
